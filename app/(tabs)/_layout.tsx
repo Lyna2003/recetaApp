@@ -10,7 +10,7 @@ const TabsLayout = () => {
       sceneStyle: {backgroundColor: 'orange'},
       headerStyle: { backgroundColor: '#fc8917ff',  },
       headerTitleStyle: { fontFamily: 'Lato-Bold', fontSize: 18, color: '#fff' },
-      headerShown: false
+
      }}>
       <Tabs.Screen
         name='home/index'
